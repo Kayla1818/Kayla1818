@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am an adaptable and driven aspiring cybersecurity professional with strong communication skills and efficient time management abilities. I am actively developing technical proficiency in SQL and Python, committed to staying ahead of evolving threats in a dynamic landscape. I am passionate about upholding security standards and protecting people and their data from threat actors, while supporting organizational goals through a unique perspective that balances technical security with business growth and reputation protection.
 <!--
 **Kayla1818/Kayla1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
